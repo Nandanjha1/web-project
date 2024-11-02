@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(25, 126, 126);
+    margin: 0;
+    padding: 0;
+    position: relative;
+    justify-items: center;
+}
+.container {
+    width: 40%;
+    margin-top: 200px;
+    align-items: center;
+    justify-items: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+}
+.btn {
+    margin: 10px;
+    padding: 5px 15px;
+    background-color: blue;
+    border-radius: 6px;
+    color: blanchedalmond;
+}
+h3 {
+    color: aquamarine;
+}
+
